@@ -2,12 +2,15 @@
 Hola, mi nombre es Camilo Meneses 👋
 Freelance Frond-End 
 
+
 Soy desarrollador de software y estudiante de ingeniería de sistemas, con experiencia en diversos lenguajes de programación, como JavaScript, Python, Java, SQL, HTML, CSS y C#. También tengo conocimientos en la librería react para desarrollo web, así como en la biblioteca Pandas y en gestión de bases de datos con MySQL. He trabajado en varios proyectos que demuestran mis habilidades y conocimientos técnicos y mi objetivo es seguir creciendo como profesional en el campo de la programación y la ingeniería de sistemas, dispuesto a enfrentar nuevos desafíos y aprender nuevas tecnologías
+
 
 Proyectos:
 Desarrollador de Software | MinTic
   Periodo: mayo 2022 – agosto 2022
-    Desarrollé una aplicación web de encriptado de texto en JavaScript, implementando un cifrado seguro y una interfaz intuitiva      en una página web alojada en GitHub, accesible para cualquier persona. La aplicación permite encriptar y desencriptar texto,      con un rendimiento optimizado.
+    Desarrollé una aplicación web de encriptado de texto en JavaScript, implementando un cifrado seguro y una interfaz intuitiva      en 
+    una página web alojada en GitHub, accesible para cualquier persona. La aplicación permite encriptar y desencriptar texto,      con un     rendimiento optimizado.
     
 Desarrollador Web | Fazt Code
   Periodo: agosto 2022 – septiembre 2022
