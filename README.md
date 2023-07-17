@@ -4,8 +4,9 @@ Freelance Frond-End
 ------------------------------------------------------------------------------------------------------------------------------------------
 I have worked on several projects that demonstrate my technical skills and knowledge and my goal is to continue growing as a professional in the field of programming and systems engineering, willing to face new challenges and learn new technologies.
 ------------------------------------------------------------------------------------------------------------------------------------------
-Socials:
-LinkedIn 
+Socials: 
+
+![](https://e7.pngegg.com/pngimages/796/374/png-clipart-linkedin-linkedin.png)
 ------------------------------------------------------------------------------------------------------------------------------------------
 skill stack:
 C# CSS3 JavaScript HTML5 Python AWS React MySQL Adobe Photoshop Figma Trello
