@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Camilo Meneses</h1>
-<h3 align="center">Freelance FrontEnd</h3>
+<h3 align="center">Freelance</h3>
 
 - 💬 **I have worked on several projects that demonstrate my technical skills and knowledge and my goal is to continue growing as a professional in the field of programming and systems engineering, willing to face new challenges and learn new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/camilodevelopersw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/camilodevelopersw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camilodevelopersw" target='_blank' ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/camilodevelopersw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skill Stack:</h3>
